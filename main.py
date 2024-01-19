@@ -15,6 +15,7 @@ def generate_and_sum_random_list(length):
     return list_sum
 
 # Example usage
-random_list_length = 5
+random_list_length = 2
+#inch = 2.54
 result = generate_and_sum_random_list(random_list_length)
 print(f"Random list sum: {result}")
